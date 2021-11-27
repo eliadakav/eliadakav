@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @eliadakav
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Cyber Security
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: eliadakav23@gmail.com
 
 <!---
